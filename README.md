@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rambo1996/Chinese-Cube/blob/main/Chinese-Cube.jpg" width=500><br><br>
+  <img src="https://github.com/rambo1996/Chinese-Cube/blob/main/Chinese-Cube.jpg" width=700><br><br>
 </div>
 
 # Chinese-Cube
